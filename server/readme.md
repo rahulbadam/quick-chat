@@ -1,2 +1,3 @@
 - rustup update
 - cargo init
+- `cargo init --lib` for libraries
